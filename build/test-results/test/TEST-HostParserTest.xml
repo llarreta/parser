@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HostParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-03T14:43:32" hostname="C11-D0RJLSY99BD" time="0.279">
+  <properties/>
+  <testcase name="test()" classname="HostParserTest" time="0.279"/>
+  <system-out><![CDATA[prueba08
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

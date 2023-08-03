@@ -1,0 +1,19 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8â‡àÍ˜1
+l
+java:S3008"ORename this field "TEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö€ªİ8ë‡àÍ˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯úåÅøÿÿÿÿ8ó‡àÍ˜1
+W	java:S125<"<This block of commented-out lines of code should be removed.(ï­ãR8ô‡àÍ˜1
+X	java:S125>"<This block of commented-out lines of code should be removed.(«ëÂÈ8ô‡àÍ˜1
+]	java:S125@"<This block of commented-out lines of code should be removed.(°‡Ì²ÿÿÿÿÿ8ô‡àÍ˜1
+N
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8–ò¥è˜1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8–ò¥è˜1
+H
+java:S1128	"+Remove this unused import 'java.util.Date'.(¸…¼ü8–ò¥è˜1
+P
+java:S1128
+".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8–ò¥è˜1
+E
+java:S1068"(Remove this unused "TEXT" private field.(ö€ªİ8õ‡àÍ˜1
